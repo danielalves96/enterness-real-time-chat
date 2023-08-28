@@ -163,6 +163,6 @@ Este comando compila o aplicativo para produção. Os arquivos compilados serão
 Esse repositório está licenciado pela **MIT LICENSE**. Para mais informações detalhadas, leia o arquivo [LICENSE](./LICENSE) contido nesse repositório.
 
 <h3 align="center">
-Feito por [Daniel Luiz Alves](https://github.com/danielalves96)
+Feito por Daniel Luiz Alves
 <br><br>
 </h3>
