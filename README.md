@@ -7,6 +7,9 @@ O EnternessChat é um projeto desenvolvido utilizando as tecnologias TypeScript,
 <img src="https://res.cloudinary.com/technical-intelligence/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1693233153/home_otsqov.jpg?_s=public-apps">
 <img src="https://res.cloudinary.com/technical-intelligence/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1693233153/Chat_qkmwi4.jpg?_s=public-apps">
 
+<h3 align="center">
+ Você pode testar neste ambiente: https://enterness-real-time-chat.vercel.app
+</h3>
 
 ## **:rocket: OBJETIVO**
 
