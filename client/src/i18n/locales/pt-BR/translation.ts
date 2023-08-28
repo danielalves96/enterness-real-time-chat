@@ -8,6 +8,12 @@ export default {
         typeYourName: "Digite seu nome",
         signIn: "Entrar",
       },
+      notFound: {
+        errorMessage: "Ops! ocorreu um erro.",
+        pageError:
+          "Algo deu errado ao acessar essa página, ou ela pode não existir.",
+        backToHome: "Voltar ao início",
+      },
     },
     components: {
       chatSidebar: {
