@@ -1,14 +1,12 @@
 # EnternessChat
 
 <h3 align="center">
-:chat: O EnternessChat é um projeto desenvolvido utilizando as tecnologias TypeScript, Node, React com ViteJS e Socket.io.
+O EnternessChat é um projeto desenvolvido utilizando as tecnologias TypeScript, Node, React com ViteJS e Socket.io.
 </h3>
 
-![Banner](https://asset.cloudinary.com/technical-intelligence/2be605080310ebab6d67613964fcd2b5)
+<img src="https://res.cloudinary.com/technical-intelligence/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1693233153/home_otsqov.jpg?_s=public-apps">
+<img src="https://res.cloudinary.com/technical-intelligence/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1693233153/Chat_qkmwi4.jpg?_s=public-apps">
 
-</br>
-
-![Banner](https://asset.cloudinary.com/technical-intelligence/afed6bbb4d8f2007a5d9010ce91d3546)
 
 ## **:rocket: OBJETIVO**
 
