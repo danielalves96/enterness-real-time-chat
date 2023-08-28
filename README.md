@@ -114,8 +114,9 @@ Após executar o servidor em modo desenvolvimento ou após a build a aplicação
 Este é o cliente da aplicação. Ele é construído utilizando tecnologias como React, Vite e Socket.IO para fornecer uma interface de usuário interativa para o aplicativo de chat em tempo real.
 
 1. Clone este repositório para o seu sistema local.
-2. Navegue até o diretório raiz do projeto `cd server`.
-3. Execute o seguinte comando para instalar as dependências:
+2. Navegue até o diretório raiz do projeto `cd client`.
+3. Inicialize as variáveis de ambiente com o comando `cp .env.example .env`
+4. Execute o seguinte comando para instalar as dependências:
 
 ```bash
 npm install
