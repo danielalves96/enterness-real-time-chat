@@ -2,7 +2,8 @@ import { BrowserRouter } from "react-router-dom";
 import { io, Socket } from "socket.io-client";
 import AppRoutes from "./routes";
 
-const socket: Socket = io("ws://localhost:4000");
+const serverURL = import.meta.env.VITE_SERVER_URL;
+const socket: Socket = io(`${serverURL}`);
 
 function App() {
   return (
