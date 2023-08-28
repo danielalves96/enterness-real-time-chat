@@ -61,11 +61,9 @@ ou caso estiver utilizando [yarn](https://yarnpkg.com/):
 yarn install
 ```
 
-</br>
-
 #### Scripts Disponíveis
 
-##### Compilação TypeScript (Build):
+##### - Compilação TypeScript (Build):
 
 ```bash
 npm run build
@@ -79,7 +77,7 @@ yarn build
 
 Este comando irá compilar o código TypeScript localizado na pasta src/ para JavaScript na pasta `dist/`. Ele também utiliza tsc-alias para manter os caminhos de importação mais organizados.
 
-##### Iniciar o Servidor
+##### - Iniciar o Servidor
 
 ```bash
 npm run dev
@@ -93,7 +91,7 @@ yarn dev
 
 Isso iniciará o servidor Express e o servidor Socket.IO, permitindo que o aplicativo de chat funcione.
 
-##### Modo de Desenvolvimento
+##### - Modo de Desenvolvimento
 
 ```bash
 npm start
@@ -107,7 +105,7 @@ yarn start
 
 Este comando é utilizado durante o desenvolvimento. Ele usa o nodemon para monitorar alterações nos arquivos na pasta src/ e reiniciar automaticamente o servidor sempre que houver alterações.
 
-##### Disponibilidade
+##### - Disponibilidade
 
 Após executar o servidor em modo desenvolvimento ou após a build a aplicação ficará disponível em na porta local `4000`.
 
@@ -129,11 +127,10 @@ ou caso estiver utilizando [yarn](https://yarnpkg.com/):
 yarn install
 ```
 
-</br>
 
 #### Scripts Disponíveis
 
-##### Modo de Desenvolvimento:
+##### - Modo de Desenvolvimento:
 
 ```bash
 npm run dev
@@ -147,7 +144,7 @@ yarn dev
 
 Este comando inicia o servidor de desenvolvimento usando o Vite. Ele compila e carrega automaticamente as alterações à medida que você edita os arquivos do cliente. Acesse http://localhost:5173 em seu navegador para ver o aplicativo em execução.
 
-##### Compilar para Produção:
+##### - Compilar para Produção:
 
 ```bash
 npm run build
