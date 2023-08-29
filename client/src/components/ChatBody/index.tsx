@@ -29,9 +29,9 @@ const ChatBody: React.FC<ChatBodyProps> = ({
             )
           )}
         </div>
+        <div ref={lastMessageRef} />
       </div>
       <LeaveChatButton handleLeaveChat={handleLeaveChat}></LeaveChatButton>
-      <div ref={lastMessageRef} />
     </div>
   );
 };
